@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    
+}
+
+td {
+    width: 5vw;
+    border: 1px solid black ;
+    text-align: center;
+}
+
+.noborder {
+    border:none;
+}
+.color {
+    background-color: cyan;
+    font-size: 60px;
+
+}
